@@ -1,0 +1,21 @@
+C:\Kavi stuff\My Work\AllInOne\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\bin\Debug\MySolution.MyCompany.Bussiness.dll
+C:\Kavi stuff\My Work\AllInOne\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\bin\Debug\MySolution.MyCompany.Bussiness.pdb
+C:\Kavi stuff\My Work\AllInOne\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\obj\Debug\MySolution.MyCompany.Bussiness.csproj.CoreCompileInputs.cache
+C:\Kavi stuff\My Work\AllInOne\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\obj\Debug\MySolution.MyCompany.Bussiness.dll
+C:\Kavi stuff\My Work\AllInOne\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\obj\Debug\MySolution.MyCompany.Bussiness.pdb
+C:\Kavi stuff\My Work\AllInOne\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\obj\Debug\MySolution.MyCompany.Bussiness.csprojAssemblyReference.cache
+C:\Kavi stuff\My Work\AllInOne\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\bin\Debug\MySolution.MyCompany.Repository.dll
+C:\Kavi stuff\My Work\AllInOne\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\bin\Debug\EntityFramework.dll
+C:\Kavi stuff\My Work\AllInOne\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\bin\Debug\MySolution.MyCompany.Repository.pdb
+C:\Kavi stuff\My Work\AllInOne\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\bin\Debug\MySolution.MyCompany.Repository.dll.config
+C:\Kavi stuff\My Work\AllInOne\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\bin\Debug\EntityFramework.xml
+C:\Kavi stuff\My Work\AllInOne\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\obj\Debug\MySolution.MyCompany.Bussiness.csproj.CopyComplete
+E:\My Work\MySolution.MyCompany.Bussiness bkup 2019.9.1 working\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\bin\Debug\MySolution.MyCompany.Bussiness.dll
+E:\My Work\MySolution.MyCompany.Bussiness bkup 2019.9.1 working\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\bin\Debug\MySolution.MyCompany.Bussiness.pdb
+E:\My Work\MySolution.MyCompany.Bussiness bkup 2019.9.1 working\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\bin\Debug\MySolution.MyCompany.Repository.dll
+E:\My Work\MySolution.MyCompany.Bussiness bkup 2019.9.1 working\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\bin\Debug\EntityFramework.dll
+E:\My Work\MySolution.MyCompany.Bussiness bkup 2019.9.1 working\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\bin\Debug\MySolution.MyCompany.Repository.pdb
+E:\My Work\MySolution.MyCompany.Bussiness bkup 2019.9.1 working\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\bin\Debug\EntityFramework.xml
+E:\My Work\MySolution.MyCompany.Bussiness bkup 2019.9.1 working\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\obj\Debug\MySolution.MyCompany.Bussiness.csprojResolveAssemblyReference.cache
+E:\My Work\MySolution.MyCompany.Bussiness bkup 2019.9.1 working\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\obj\Debug\MySolution.MyCompany.Bussiness.dll
+E:\My Work\MySolution.MyCompany.Bussiness bkup 2019.9.1 working\MySolution.MyCompany.Bussiness\MySolution.MyCompany.Bussiness\obj\Debug\MySolution.MyCompany.Bussiness.pdb
